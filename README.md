@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Psystec</h1>
 <h3 align="center">A passionate developer from South Africa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=psystec&label=Profile%20views&color=0e75b6&style=flat" alt="psystec" /> </p>
+<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=psystec&label=Profile%20views&color=0e75b6&style=flat" alt="psystec" /> </p-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
