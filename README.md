@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Psystec</h1>
-<h3 align="center">A passionate developer from South Africa</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?size=30&duration=2000&pause=10000&color=A0A0A0&center=true&vCenter=true&width=600&font=Fira%20Code&lines=%F0%9F%91%8B+Hi,+I'm+Psystec+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&center=true&width=640&color=A0A0A0&vCenter=true&pause=1000&duration=3000&size=22&lines=Full-Stack%20developer;Passionate%20about%20software%20engineering;And%20also%20an%20harcore%20multiplayer%20gamer"/>
+</p>
 
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=psystec&label=Profile%20views&color=0e75b6&style=flat" alt="psystec" /> </p-->
 
