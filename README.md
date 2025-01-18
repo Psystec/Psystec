@@ -17,7 +17,7 @@
 
 ## 🚀 About Me 
 
-* 💻 South African enjoyer of [.NET](https://learn.microsoft.com/en-us/dotnet/) techonologies and mobile development.
+* 💻 South African enjoyer of [.NET](https://learn.microsoft.com/en-us/dotnet/) technologies and AI development.
 * 🏫 Graduated from [CTU](https://ctutraining.ac.za/) where I obtained a [MCSE](https://learn.microsoft.com/en-us/credentials/certifications/posts/mcsa-mcsd-mcse-certifications-retire-with-continued-investment-to-role-based-certifications), Web Development and AutoCAD Certified professional Qualifications.
 
 ## 📊 Profile Statistics
