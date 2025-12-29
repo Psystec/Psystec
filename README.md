@@ -29,7 +29,7 @@
 
 ### 🏆 Github Trophies
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Psystec&theme=onedark&row=1&margin-w=22&no-bg=true)
+[![Github Trophy](https://github-profile-trophy.vercel.app/?username=Psystec&theme=onedark)](https://github.com/Psystec/github-profile-trophy)
 
 ## 👨‍💻 Technologies
 
